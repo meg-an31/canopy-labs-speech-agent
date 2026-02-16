@@ -1,0 +1,15 @@
+[project]
+name = "voice-ai-app"
+version = "0.1.0"
+description = "Barebones voice AI interface"
+requires-python = ">=3.10"
+dependencies = [
+    "flask>=3.0.0",
+    "orpheus_tts",
+    "assemblyai",
+    "requests",
+    "flask-socketio",
+    "python-socketio",
+    "websocket-client",
+    "groq",
+]
