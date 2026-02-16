@@ -4,7 +4,7 @@ talk to this little robot using canopy labs' orpheus tts model!
 
 ### setup on your own machine
 
-you will need both a `GROQ_API_KEY` and n `ASSEMBLYAI_API_KEY`.
+you will need both a `GROQ_API_KEY` and an `ASSEMBLYAI_API_KEY`.
 
 then just run:
 
